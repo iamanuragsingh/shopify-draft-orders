@@ -1,0 +1,8 @@
+PROOF OF SUBDOMAIN TAKEOVER - Report # [YOUR_REPORT_ID]
+Researcher: iamanuragsingh
+Date: November 23, 2025
+This file demonstrates full control of shopify-draft-orders.github.io via GitHub Pages.
+Original state: Dangling 404 error.
+Repo: https://github.com/iamanuragsingh/shopify-draft-orders
+Pages enabled from main branch.
+Delete after fix.
